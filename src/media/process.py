@@ -3,7 +3,7 @@ from mediapipe.tasks import python
 from mediapipe.tasks.python import text
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(HERE, "models", "detector.tflite")
+MODEL_PATH = os.path.join(HERE, "models", "language_detector.tflite")
 
 class LanguageProcessor:
     def __init__(self):
