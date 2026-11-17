@@ -12,11 +12,9 @@ The project runs a pre-built TensorFlow Model compiled by Google's Language Dete
 
 ## Screenshots
 
-<img width="1234" height="800" alt="Image" src="https://github.com/user-attachments/assets/2d1b257d-b81f-4f15-bea5-308b290c07ae" />
+<img width="1189" height="810" alt="Screenshot 2026-11-15 154621" src="https://github.com/user-attachments/assets/2f84b942-dd52-4ef2-8243-25a389eccb1e" />
 
-<img width="1237" height="815" alt="Image" src="https://github.com/user-attachments/assets/a7bd5a17-e5c1-4952-8638-ff9b18ae7f21" />
-
-<img width="1234" height="817" alt="Image" src="https://github.com/user-attachments/assets/693b7641-625f-4590-b1d7-3b2006db143d" />
+<img width="1192" height="810" alt="Screenshot 2026-11-17 174904" src="https://github.com/user-attachments/assets/bb2870da-1417-441b-a152-57cdcb66ac39" />
 
 ## Next Steps
 
