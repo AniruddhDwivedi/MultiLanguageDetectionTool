@@ -80,4 +80,4 @@ Build files are in `packaging/` (PyInstaller, a PowerShell script and a GitHub A
 - More languages (e.g. Latin)
 - Faster handling of long documents (separate processes instead of threads)
 - A web version
-- A Linux AppImage
+- A Linux AppImage.
